@@ -1,0 +1,15 @@
+{
+  "name": "test-intellective",
+  "version": "1.0.0",
+  "main": "instructions.js",
+  "scripts": {
+    "dev": "live-server --port=5000"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
